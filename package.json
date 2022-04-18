@@ -1,7 +1,7 @@
 {
     "name": "@veraa/minecraft-data",
     "version": "1.0.7",
-    "description": "A Minecraft module",
+    "description": "A Minecraft NPM module who integrates some objects from Minecraft",
     "main": "src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"

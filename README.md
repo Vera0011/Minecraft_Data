@@ -8,7 +8,7 @@ A Minecraft NPM module who integrates some objects from Minecraft, like:
 - Enchantments
 - Effects
 
-Programmed By Vera (Discord tags: Vera#0011)
+Programmed By Vera (Discord tag: Vera#0011)
 ## Documentation:
 - **Español**: [Click Aquí](https://github.com/Vera0011/Minecraft_data/blob/master/docs/apiEs.md)
 - **English**: [Click Here](https://github.com/Vera0011/Minecraft_data/blob/master/docs/apiEn.md)
