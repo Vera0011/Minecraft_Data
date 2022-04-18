@@ -1,5 +1,5 @@
 {
-    "name": "@veeraa/minecraft-data",
+    "name": "@veraa/minecraft-data",
     "version": "1.0.0",
     "description": "A Minecraft module",
     "main": "index.js",
