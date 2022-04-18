@@ -2,7 +2,7 @@
     "name": "@veraa/minecraft-data",
     "version": "1.0.3",
     "description": "A Minecraft module",
-    "main": "index.js",
+    "main": "src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
