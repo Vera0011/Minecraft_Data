@@ -154,7 +154,7 @@ const mobsEs = {
         },
         health: '10',
         displayname: 'Creeper',
-        id: '',
+        id: '33',
         width: '0.6',
         height: '1.7',
         category: 'Mob hostil',
@@ -346,17 +346,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b2/ZombieFace.png/revision/latest/scale-to-width-down/64?cb=20190501015449',
         color: '#3B5F2A',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '50',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     21: {
@@ -364,17 +364,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e6/GuardianFace.png/revision/latest/scale-to-width-down/64?cb=20200223055028',
         color: '#507A67',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '15',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     22: {
@@ -400,17 +400,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5a/PillagerFace.png/revision/latest/scale-to-width-down/64?cb=20181024165842',
         color: '#959C9C',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '12',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     24: {
@@ -418,17 +418,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/HuskFace.png/revision/latest/scale-to-width-down/64?cb=20190822094814',
         color: '#797061',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     25: {
@@ -436,17 +436,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/IronGolemFace.png/revision/latest/scale-to-width-down/64?cb=20190501011517',
         color: '#D6D6D6',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '50',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     26: {
@@ -454,17 +454,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d3/LlamaFace.png/revision/latest/scale-to-width-down/64?cb=20190823005427',
         color: '#645B4A',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '15',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     27: {
@@ -472,17 +472,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/69/MagmaCubeFace.png/revision/latest/scale-to-width-down/64?cb=20190501234829',
         color: '#FB352C',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '8',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     28: {
@@ -544,17 +544,17 @@ const mobsEs = {
         image: 'https://cdn.discordapp.com/attachments/825701229983957043/867500045271695370/4270_Panda.gif',
         color: '#DDDDDD',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     32: {
@@ -580,17 +580,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/PhantomFace.png/revision/latest/scale-to-width-down/64?cb=20180313180442',
         color: '#5161A5',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     34: {
@@ -616,17 +616,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/07/PolarBearFace.png/revision/latest/scale-to-width-down/64?cb=20190823095202',
         color: '#EEEEEE',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '15',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     36: {
@@ -634,17 +634,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fe/PufferfishFace.png/revision/latest/scale-to-width-down/64?cb=20180313115655',
         color: '#F2B307',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '1.5',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob pasivo',
-        description: ''
+        description: 'Indefinido'
     },
 
     37: {
@@ -652,17 +652,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a8/IllusionerFace.png/revision/latest/scale-to-width-down/64?cb=20201103102047',
         color: '#484A49',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '2.5',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     38: {
@@ -688,15 +688,15 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a9/RavagerFace.png/revision/latest/scale-to-width-down/64?cb=20181025103915',
         color: '#696A65',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '50',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
     },
 
@@ -715,7 +715,7 @@ const mobsEs = {
         width: '0.7',
         height: '0.4',
         category: 'Mob pasivo',
-        description: ''
+        description: 'Indefinido'
     },
 
     41: {
@@ -741,17 +741,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/32/ShulkerFace.png/revision/latest/scale-to-width-down/64?cb=20180313080616',
         color: '#976996',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '15',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     43: {
@@ -759,17 +759,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/SilverfishFace.png/revision/latest/scale-to-width-down/64?cb=20180313083347',
         color: '#777777',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '0.75',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     44: {
@@ -777,17 +777,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/dc/SkeletonFace.png/revision/latest/scale-to-width-down/64?cb=20190822094528',
         color: '#D3D3D3',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     45: {
@@ -813,17 +813,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ca/SlimeFace.png/revision/latest/scale-to-width-down/64?cb=20190501014257',
         color: '#89C67C',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '8',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     47: {
@@ -849,17 +849,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/SpiderFace.png/revision/latest/scale-to-width-down/64?cb=20200327100727',
         color: '#4F453D',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '8',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     49: {
@@ -885,17 +885,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/StrayFace.png/revision/latest/scale-to-width-down/64?cb=20190822095109',
         color: '#475B5B',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     51: {
@@ -903,17 +903,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d3/LlamaFace.png/revision/latest/scale-to-width-down/64?cb=20190823005427',
         color: '#645B4A',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '15',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     52: {
@@ -957,17 +957,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9e/VexFace.png/revision/latest/scale-to-width-down/64?cb=20190823013545',
         color: '#657689',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '7',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     55: {
@@ -993,17 +993,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/VindicatorFace.png/revision/latest/scale-to-width-down/64?cb=20190501005647',
         color: '#8E9394',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '12',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     57: {
@@ -1029,17 +1029,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/WitchFace.png/revision/latest/scale-to-width-down/64?cb=20200905232526',
         color: '#7A5F6B',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '13',
-        displayname: '',
-        id: '',
-        width: '',
-        height: '',
+        displayname: 'Indefinido',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     59: {
@@ -1047,17 +1047,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/84/WitherFace.png/revision/latest/scale-to-width-down/64?cb=20190804022733',
         color: '#000000',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '150',
         displayname: 'Wither',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     60: {
@@ -1065,17 +1065,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7c/WitherSkeletonFace.png/revision/latest/scale-to-width-down/64?cb=20190804022955',
         color: '#323232',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
         displayname: 'Wither Skeleton',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     61: {
@@ -1083,17 +1083,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/68/WolfFace.png/revision/latest/scale-to-width-down/64?cb=20190501015035',
         color: '#DAD8D9',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '4',
         displayname: 'Wolf',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     62: {
@@ -1101,17 +1101,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b2/ZombieFace.png/revision/latest/scale-to-width-down/64?cb=20190501015449',
         color: '#4A682D',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
         displayname: 'Zombie',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     63: {
@@ -1119,17 +1119,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/ZombieHorseFace.png/revision/latest/scale-to-width-down/64?cb=20200223042320',
         color: '#4A682D',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '7.5',
         displayname: 'Zombie Horse',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     64: {
@@ -1137,17 +1137,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9e/ZombieVillagerFace.png/revision/latest/scale-to-width-down/64?cb=20190501010957',
         color: '#942E27',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
         displayname: 'Zombie Villager',
-        id: '',
-        width: '',
-        height: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
+        height: 'Indefinido',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     65: {
@@ -1155,9 +1155,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/PiglinFace.png/revision/latest/scale-to-width-down/80?cb=20200215152957',
         color: '#F3B986',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '8',
         displayname: 'Piglin',
@@ -1165,7 +1165,7 @@ const mobsEs = {
         width: '0.6',
         height: '1.95',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     66: {
@@ -1173,9 +1173,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/10/HoglinFace.png/revision/latest/scale-to-width-down/64?cb=20200214161621',
         color: '#EBEDAA',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '20',
         displayname: 'Hoglin',
@@ -1183,7 +1183,7 @@ const mobsEs = {
         width: '0.6982',
         height: '0.7',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     67: {
@@ -1191,9 +1191,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/StriderFace.png/revision/latest/scale-to-width-down/64?cb=20200326071355',
         color: '#EE5C3F',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
         displayname: 'Strider',
@@ -1201,7 +1201,7 @@ const mobsEs = {
         width: '0.9',
         height: '1.7',
         category: 'Mob pasivo',
-        description: ''
+        description: 'Indefinido'
     },
 
     68: {
@@ -1209,9 +1209,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0c/ZoglinFace.png/revision/latest/scale-to-width-down/64?cb=20200402165150',
         color: '#6A8D42',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '20',
         displayname: 'Zoglin',
@@ -1219,7 +1219,7 @@ const mobsEs = {
         width: '1.3965',
         height: '1.4',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     69: {
@@ -1227,9 +1227,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4a/AxolotlFace.png/revision/latest/scale-to-width-down/64?cb=20201216195034',
         color: '#EE3FA1',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '14',
         displayname: 'Axolotl',
@@ -1237,7 +1237,7 @@ const mobsEs = {
         width: '1.3',
         height: '0.6',
         category: 'Mob pasivo',
-        description: ''
+        description: 'Indefinido'
     },
 
     70: {
@@ -1245,9 +1245,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/15/GlowSquidFace.png/revision/latest/scale-to-width-down/64?cb=20200804202459',
         color: '#3EEDB3',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '5',
         displayname: 'Glow Squid',
@@ -1255,7 +1255,7 @@ const mobsEs = {
         width: '0.8',
         height: '0.8',
         category: 'Mob pasivo',
-        description: ''
+        description: 'Indefinido'
     },
 
     71: {
@@ -1263,9 +1263,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/GoatFace.png/revision/latest/scale-to-width-down/64?cb=20210118052703',
         color: '##EEEEEE',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '5',
         displayname: 'Goat',
@@ -1273,7 +1273,7 @@ const mobsEs = {
         width: '1.3',
         height: '0.9',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     72: {
@@ -1281,9 +1281,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/ZombifiedPiglinFace.png/revision/latest/scale-to-width-down/80?cb=20200217232809',
         color: '#E7918C',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '10',
         displayname: 'Zombified Piglin',
@@ -1291,7 +1291,7 @@ const mobsEs = {
         width: '0.6',
         height: '1.95',
         category: 'Mob neutral',
-        description: ''
+        description: 'Indefinido'
     },
 
     73: {
@@ -1299,9 +1299,9 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/PiglinBruteFace.png/revision/latest/scale-to-width-down/80?cb=20200626030016',
         color: '#CECD82',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
         health: '25',
         displayname: 'Piglin Brute',
@@ -1309,7 +1309,7 @@ const mobsEs = {
         width: '0.6',
         height: '1.95',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 
     74: {
@@ -1317,17 +1317,17 @@ const mobsEs = {
         image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/WardenFace.png/revision/latest/scale-to-width-down/108?cb=20210508080631',
         color: '#1CD1D7',
         damage: {
-            easy: '',
-            normal: '',
-            hard: '',
+            easy: 'Indefinido',
+            normal: 'Indefinido',
+            hard: 'Indefinido',
         },
-        health: '',
+        health: 'Indefinido',
         displayname: 'Warden',
-        id: '',
-        width: '',
+        id: 'Indefinido',
+        width: 'Indefinido',
         height: '3.5',
         category: 'Mob hostil',
-        description: ''
+        description: 'Indefinido'
     },
 };
 
