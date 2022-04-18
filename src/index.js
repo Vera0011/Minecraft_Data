@@ -1,88 +1,121 @@
-export class Info {
-    constructor(languaje) {
-        this.biomes = require(`./${languaje}/biomes`);
-        this.blocks = require(`./${languaje}/blocks`);
-        this.effects = require(`./${languaje}/effects`);
-        this.enchants = require(`./${languaje}/enchants`);
-        this.items = require(`./${languaje}/items`);
-        this.mobs = require(`./${languaje}/mobs`);
-        this.structures = require(`./${languaje}/structures`);
-    }
+// BIOMES
+const findBiomeById = (languaje, id) => {
+    const biomes = require(`./${languaje}/biomes.js`);
+    const biomeId = Object.keys(biomes).find((biomeId) => biomeId === id);
 
-    // BIOMES
-    findBiomeById(id) {
-        const biomeId = Object.keys(this.biomes).find((biomeId) => biomeId === id);
-        return this.biomes[biomeId];
-    }
+    return biomes[biomeId] || 0;
+}
 
-    findBiomeByName(name) {
-        const biome = Object.values(this.biomes).find((biome) => biome.name === name);
-        return biome;
-    }
+const findBiomeByName = (languaje, name) => {
+    const biomes = require(`./${languaje}/biomes`);
+    const biome = Object.values(biomes).find((biome) => biome.name === name);
 
-    // BLOCKS
-    findBlockById(id) {
-        const blockId = Object.keys(this.blocks).find((blockId) => blockId === id);
-        return this.blocks[blockId];
-    }
+    return biome || 0;
+}
 
-    findBlockByName(name) {
-        const block = Object.values(this.blocks).find((block) => block.name === name);
-        return block;
-    }
+// BLOCKS
+const findBlockById = (languaje, id) => {
+    const blocks = require(`./${languaje}/blocks.js`);
+    const blockId = Object.keys(blocks).find((blockId) => blockId === id);
 
-    // EFFECTS
-    findEffectById(id) {
-        const effectId = Object.keys(this.effects).find((effectId) => effectId === id);
-        return this.effects[effectId];
-    }
+    return blocks[blockId] || 0;
+}
 
-    findEffectByName(name) {
-        const effect = Object.values(this.effects).find((effect) => effect.name === name);
-        return effect;
-    }
+const findBlockByName = (languaje, name) => {
+    const blocks = require(`./${languaje}/blocks.js`);
+    const block = Object.values(blocks).find((block) => block.name === name);
 
-    // ENCHANTS
-    findEnchantById(id) {
-        const enchantId = Object.keys(this.enchants).find((enchantId) => enchantId === id);
-        return this.enchants[enchantId];
-    }
+    return block || 0;
+}
 
-    findEnchantByName(name) {
-        const enchant = Object.values(this.enchants).find((enchant) => enchant.name === name);
-        return enchant;
-    }
+// EFFECTS
+const findEffectById = (languaje, id) => {
+    const effects = require(`./${languaje}/effects.js`);
+    const effectId = Object.keys(effects).find((effectId) => effectId === id);
 
-    // ITEMS
-    findItemById(id) {
-        const itemId = Object.keys(this.items).find((itemId) => itemId === id);
-        return this.items[itemId];
-    }
+    return effects[effectId] || 0;
+}
 
-    findItemByName(name) {
-        const item = Object.values(this.items).find((item) => item.name === name);
-        return item;
-    }
+const findEffectByName = (languaje, name) => {
+    const effects = require(`./${languaje}/effects.js`);
+    const effect = Object.values(effects).find((effect) => effect.name === name);
 
-    // MOBS
-    findMobById(id) {
-        const mobId = Object.keys(this.mobs).find((mobId) => mobId === id);
-        return this.mobs[mobId];
-    }
+    return effect || 0;
+}
 
-    findMobByName(name) {
-        const mob = Object.values(this.mobs).find((mob) => mob.name === name);
-        return mob;
-    }
+// ENCHANTS
+const findEnchantById = (languaje, id) => {
+    const enchants = require(`./${languaje}/enchants.js`);
+    const enchantId = Object.keys(enchants).find((enchantId) => enchantId === id);
 
-    // STRUCTURES
-    findStructureById(id) {
-        const structureId = Object.keys(this.structures).find((structureId) => structureId === id);
-        return this.structures[structureId];
-    }
+    return enchants[enchantId] || 0;
+}
 
-    findStructureByName(name) {
-        const structure = Object.values(this.structures).find((structure) => structure.name === name);
-        return structure;
-    }
+const findEnchantByName = (languaje, name) => {
+    const enchants = require(`./${languaje}/enchants.js`);
+    const enchant = Object.values(enchants).find((enchant) => enchant.name === name);
+
+    return enchant || 0;
+}
+
+// ITEMS
+const findItemById = (languaje, id) => {
+    const items = require(`./${languaje}/items.js`);
+    const itemId = Object.keys(items).find((itemId) => itemId === id);
+
+    return items[itemId] || 0;
+}
+
+const findItemByName = (languaje, name) => {
+    const items = require(`./${languaje}/items.js`);
+    const item = Object.values(items).find((item) => item.name === name);
+
+    return item || 0;
+}
+
+// MOBS
+const findMobById = (languaje, id) => {
+    const mobs = require(`./${languaje}/mobs.js`);
+    const mobId = Object.keys(mobs).find((mobId) => mobId === id);
+
+    return mobs[mobId] || 0;
+}
+
+const findMobByName = (languaje, name) => {
+    const mobs = require(`./${languaje}/mobs.js`);
+    const mob = Object.values(mobs).find((mob) => mob.name === name);
+
+    return mob || 0;
+}
+
+// STRUCTURES
+const findStructureById = (languaje, id) => {
+    const structures = require(`./${languaje}/structures.js`);
+    const structureId = Object.keys(structures).find((structureId) => structureId === id);
+
+    return structures[structureId] || 0;
+}
+
+const findStructureByName = (languaje, name) => {
+    const structures = require(`./${languaje}/structures.js`);
+    const structure = Object.values(structures).find((structure) => structure.name === name);
+
+    return structure || 0;
+}
+
+module.exports = {
+    findBiomeById,
+    findBiomeByName,
+    findBlockById,
+    findBlockByName,
+    findEffectById,
+    findEffectByName,
+    findEnchantById,
+    findEnchantByName,
+    findItemById,
+    findItemByName,
+    findMobById,
+    findMobByName,
+    findStructureById,
+    findStructureByName
 }
