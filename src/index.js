@@ -1,12 +1,12 @@
 class Info {
     constructor(languaje) {
-        this.biomes = require(`./${languaje}/biomes.js`);
-        this.blocks = require(`./${languaje}/blocks.js`);
-        this.effects = require(`./${languaje}/effects.js`);
-        this.enchants = require(`./${languaje}/enchants.js`);
-        this.items = require(`./${languaje}/items.js`);
-        this.mobs = require(`./${languaje}/mobs.js`);
-        this.structures = require(`./${languaje}/structures.js`);
+        this.biomes = require(`${__dirname}/${languaje}/biomes.js`);
+        this.blocks = require(`${__dirname}/${languaje}/blocks.js`);
+        this.effects = require(`${__dirname}/${languaje}/effects.js`);
+        this.enchants = require(`${__dirname}/${languaje}/enchants.js`);
+        this.items = require(`${__dirname}/${languaje}/items.js`);
+        this.mobs = require(`${__dirname}/${languaje}/mobs.js`);
+        this.structures = require(`${__dirname}/${languaje}/structures.js`);
     }
 
     // BIOMES
