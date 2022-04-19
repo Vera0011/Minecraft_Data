@@ -33,6 +33,13 @@ class Info {
         return enchant || 0;
     }
 
+    getRandomEnchant() {
+        const enchantsLength = Object.keys(this.enchants).length - 1;
+        const enchantAleatory = Math.floor(Math.random() * (enchantsLength - 1)) + 1;
+
+        return this.enchants[enchantAleatory] || 0;
+    }
+
     // ITEMS
     findItemByName(name) {
         const item = Object.values(this.items).find((item) => item.name === name);
@@ -45,12 +52,18 @@ class Info {
         return mob || 0;
     }
 
+    getRandomMob() {
+        const mobsLength = Object.keys(this.mobs).length - 1;
+        const mobAleatory = Math.floor(Math.random() * (mobsLength - 1)) + 1;
+
+        return this.mobs[mobAleatory] || 0;
+    }
+
     // STRUCTURES
     findStructureByName(name) {
         const structure = Object.values(this.structures).find((structure) => structure.name === name);
         return structure || 0;
     }
 }
-
 
 module.exports = Info;
