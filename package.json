@@ -1,6 +1,6 @@
 {
     "name": "@veraa/minecraft-data",
-    "version": "1.0.13",
+    "version": "1.1.0",
     "description": "A Minecraft NPM module who integrates some objects from Minecraft",
     "main": "src/index.js",
     "repository": {
