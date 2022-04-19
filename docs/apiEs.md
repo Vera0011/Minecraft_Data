@@ -11,7 +11,7 @@ El módulo tiene varias funciones:
 
 ## **OBJETIVOS:**
 - [x] Terminar los encantamientos **(Terminados el día 26/07/2021)**
-- [ ] Terminar los mobs
+- [x] Terminar los mobs **(Terminados el día 19/03/2022)**
 - [ ] Terminar los efectos
 - [ ] Terminar los bloques
 - [x] Terminar las estructuras **(Terminados el día 02/08/2021)**
