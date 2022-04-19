@@ -6,8 +6,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Aumenta la velocidad al minar bajo el agua',
-        permiteditems: 'Casco',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Casco',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     2: {
@@ -16,8 +16,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'Aumenta el daño y aplica lentitud 4 a los mobs artrópodos (arañas, arañas de cueva, lepisma, endermites y abejas)',
-        permiteditems: 'Espada',
-        incompatiblewith: ['Golpeo', 'Filo'],
+        permitedItems: 'Espada',
+        incompatibleWith: ['Golpeo', 'Filo'],
     },
 
     3: {
@@ -26,8 +26,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Reduce el daño por explosión y empuje',
-        permiteditems: 'Armadura completa',
-        incompatiblewith: ['Protección contra el fuego', 'Protección contra proyectiles', 'Protección'],
+        permitedItems: 'Armadura completa',
+        incompatibleWith: ['Protección contra el fuego', 'Protección contra proyectiles', 'Protección'],
     },
 
     4: {
@@ -36,8 +36,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Crea un rayo que alcanza a la entidad atacada, funciona solamente durante tormentas y si el objetivo no está obstruido por bloques',
-        permiteditems: 'Tridente',
-        incompatiblewith: 'Impulso acuático',
+        permitedItems: 'Tridente',
+        incompatibleWith: 'Impulso acuático',
     },
 
     5: {
@@ -46,8 +46,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Los items afectados no pueden ser desequipados, a menos de estar en Creativo, al morir o al romperse el item',
-        permiteditems: ['Armadura completa', 'Calabaza', 'Cabeza', 'Elitros'],
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: ['Armadura completa', 'Calabaza', 'Cabeza', 'Elitros'],
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     6: {
@@ -56,8 +56,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Los items afectados desaparecen al morir',
-        permiteditems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Brujula', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Calabaza', 'Cabeza', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Brujula', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Calabaza', 'Cabeza', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     7: {
@@ -66,8 +66,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta la velocidad de desplazamiento bajo el agua',
-        permiteditems: 'Botas',
-        incompatiblewith: 'Paso helado',
+        permitedItems: 'Botas',
+        incompatibleWith: 'Paso helado',
     },
 
     8: {
@@ -76,8 +76,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'Aumenta la velocidad del item encantado',
-        permiteditems: ['Pico', 'Pala', 'Hacha', 'Azada', 'Tijeras'],
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: ['Pico', 'Pala', 'Hacha', 'Azada', 'Tijeras'],
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     9: {
@@ -86,8 +86,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Reduce el daño por caída',
-        permiteditems: 'Botas',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Botas',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     10: {
@@ -96,8 +96,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '2',
         description: 'Incendia el objetivo al ser golpeado',
-        permiteditems: 'Espada',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Espada',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     11: {
@@ -106,8 +106,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Reduce el daño por quemadura y el tiempo de quemadura',
-        permiteditems: 'Armadura completa',
-        incompatiblewith: ['Protección contra explosiones', 'Protección contra proyectiles', 'Protección'],
+        permitedItems: 'Armadura completa',
+        incompatibleWith: ['Protección contra explosiones', 'Protección contra proyectiles', 'Protección'],
     },
 
     12: {
@@ -116,8 +116,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Las flechas queman al objetivo y encienden dinamita',
-        permiteditems: 'Arco',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Arco',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     13: {
@@ -126,8 +126,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta ciertos dropeos de bloques',
-        permiteditems: ['Pico', 'Pala', 'Hacha', 'Azada'],
-        incompatiblewith: 'Toque de seda',
+        permitedItems: ['Pico', 'Pala', 'Hacha', 'Azada'],
+        incompatibleWith: 'Toque de seda',
     },
 
     14: {
@@ -136,8 +136,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '2',
         description: 'Convierte el agua bajo el jugador en hielo compacto y evita el daño causado por los bloques de magma',
-        permiteditems: 'Botas',
-        incompatiblewith: 'Agilidad acuática',
+        permitedItems: 'Botas',
+        incompatibleWith: 'Agilidad acuática',
     },
 
     15: {
@@ -146,8 +146,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'El tridente causa mas daño a criaturas que aparezcan naturalmente en el oceano',
-        permiteditems: 'Tridente',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Tridente',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     16: {
@@ -156,8 +156,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Al disparar con el arco, no se consumen flechas, esto no incluye fechas espectrales o con efectos',
-        permiteditems: 'Arco',
-        incompatiblewith: 'Reparación',
+        permitedItems: 'Arco',
+        incompatibleWith: 'Reparación',
     },
 
     17: {
@@ -166,8 +166,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '2',
         description: 'Aumenta el empuje de la espada al golpear',
-        permiteditems: 'Espada',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Espada',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     18: {
@@ -176,8 +176,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta las recompensas al matar a una criatura',
-        permiteditems: 'Espada',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Espada',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     19: {
@@ -186,8 +186,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'El tridente vuelve al jugador despues de haberlo lanzado',
-        permiteditems: 'Tridente',
-        incompatiblewith: 'Impulso acuático',
+        permitedItems: 'Tridente',
+        incompatibleWith: 'Impulso acuático',
     },
 
     20: {
@@ -196,8 +196,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta las recompensas al pescar (libros encantados, etc)',
-        permiteditems: 'Caña de pescar',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Caña de pescar',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     21: {
@@ -206,8 +206,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Disminuye el tiempo de espera a la hora de pescar',
-        permiteditems: 'Caña de pescar',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Caña de pescar',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     22: {
@@ -216,8 +216,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'La experiencia obtenida repara el objeto en vez de añadirse a la barra de experiencia',
-        permiteditems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
-        incompatiblewith: 'Infinidad',
+        permitedItems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
+        incompatibleWith: 'Infinidad',
     },
 
     23: {
@@ -226,8 +226,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Dispara 3 flechas al mismo tiempo, solo consumiendo una en el proceso. Solo una puede ser recuperada',
-        permiteditems: 'Ballesta',
-        incompatiblewith: 'Perforación',
+        permitedItems: 'Ballesta',
+        incompatibleWith: 'Perforación',
     },
 
     24: {
@@ -236,8 +236,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Las flechas atraviesan criaturas y escudos',
-        permiteditems: 'Ballesta',
-        incompatiblewith: 'Disparo múltiple',
+        permitedItems: 'Ballesta',
+        incompatibleWith: 'Disparo múltiple',
     },
 
     25: {
@@ -246,8 +246,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'Aumenta el daño de la flecha',
-        permiteditems: 'Arco',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Arco',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     26: {
@@ -256,8 +256,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Reduce el daño recibido por las flechas, tridentes y proyectiles como los del ghast o los blaze',
-        permiteditems: 'Armadura completa',
-        incompatiblewith: ['Protección contra el fuego', 'Protección contra explosiones', 'Protección'],
+        permitedItems: 'Armadura completa',
+        incompatibleWith: ['Protección contra el fuego', 'Protección contra explosiones', 'Protección'],
     },
 
     27: {
@@ -266,8 +266,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '4',
         description: 'Reduce el daño recibido un 4% por cada nivel',
-        permiteditems: 'Armadura completa',
-        incompatiblewith: ['Protección contra el fuego', 'Protección contra proyectiles', 'Protección contra explosiones'],
+        permitedItems: 'Armadura completa',
+        incompatibleWith: ['Protección contra el fuego', 'Protección contra proyectiles', 'Protección contra explosiones'],
     },
 
     28: {
@@ -276,8 +276,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '2',
         description: 'Aumenta el retroceso de las flechas',
-        permiteditems: 'Arco',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Arco',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     29: {
@@ -286,8 +286,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Reduce el tiempo de carga de la ballesta',
-        permiteditems: 'Ballesta',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Ballesta',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     30: {
@@ -296,8 +296,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta el tiempo que puedes estar bajo el agua sin ahogarte',
-        permiteditems: 'Casco',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Casco',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     31: {
@@ -306,8 +306,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'El tridente, al ser lanzado, propulsa al jugador con el. Solo funciona cuando llueve o en el agua',
-        permiteditems: 'Tridente',
-        incompatiblewith: ['Conductividad', 'Lealtad'],
+        permitedItems: 'Tridente',
+        incompatibleWith: ['Conductividad', 'Lealtad'],
     },
 
     32: {
@@ -316,8 +316,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'Aumenta el daño de las armas',
-        permiteditems: 'Espada',
-        incompatiblewith: ['Maldición de los Artropodos', 'Golpeo'],
+        permitedItems: 'Espada',
+        incompatibleWith: ['Maldición de los Artropodos', 'Golpeo'],
     },
 
     33: {
@@ -326,8 +326,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '1',
         description: 'Los bloques minados son soltados en su forma natural, con algunas excepciones',
-        permiteditems: ['Pico', 'Pala', 'Hacha', 'Azada'],
-        incompatiblewith: 'Fortuna',
+        permitedItems: ['Pico', 'Pala', 'Hacha', 'Azada'],
+        incompatibleWith: 'Fortuna',
     },
 
     34: {
@@ -336,8 +336,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '5',
         description: 'Aumenta el daño creado a las criaturas no muertas',
-        permiteditems: 'Espada',
-        incompatiblewith: ['Baneo de los Artropodos', 'Filo'],
+        permitedItems: 'Espada',
+        incompatibleWith: ['Baneo de los Artropodos', 'Filo'],
     },
 
     35: {
@@ -346,8 +346,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta la velocidad al andar sobre arena de almas o tierra de almas. Daña el objeto con el tiempo',
-        permiteditems: 'Botas',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Botas',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     36: {
@@ -356,8 +356,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Aumenta el ataque de barrido',
-        permiteditems: 'Espada',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Espada',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     37: {
@@ -366,8 +366,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Retorna un valor del daño al contrincante cuando eres atacado, bajo el coste de reducción de armadura',
-        permiteditems: 'Armadura completa',
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: 'Armadura completa',
+        incompatibleWith: 'Sin incompatibilidad',
     },
 
     38: {
@@ -376,8 +376,8 @@ const enchantsEs = {
         image: img,
         maxlevel: '3',
         description: 'Reduce la posibilidad de que un item sea dañado',
-        permiteditems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
-        incompatiblewith: 'Sin incompatibilidad',
+        permitedItems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
+        incompatibleWith: 'Sin incompatibilidad',
     }
 };
 
@@ -389,6 +389,6 @@ module.exports = enchantsEs;
 	image: img,
 	maxlevel: '',
 	description: '',
-	permiteditems: ['', ''],
-	incompatiblewith: ['', ''],
+	permitedItems: ['', ''],
+	incompatibleWith: ['', ''],
   },*/
