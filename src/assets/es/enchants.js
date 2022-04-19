@@ -415,6 +415,7 @@ const enchantsEs = {
         description: 'Reduce la posibilidad de que un item sea dañado',
         permitedItems: ['Armadura completa', 'Espada', 'Pico', 'Pala', 'Hacha', 'Azada', 'Caña de pescar', 'Arco', 'Tijeras', 'Mechero', 'Caña con zanahoria', 'Escudo', 'Elitros', 'Tridente', 'Ballesta', 'Caña con hongo deformado'],
         incompatibleWith: 'Sin incompatibilidad',
+        color: '#CE75EA'
     }
 };
 

@@ -3,6 +3,9 @@
     "version": "1.2.3",
     "description": "A Minecraft NPM module who integrates some objects from Minecraft",
     "main": "src/index.js",
+    "scripts": {
+        "update": "git push origin master && npm publish"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Vera0011/Minecraft_data.git"
