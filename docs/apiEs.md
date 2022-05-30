@@ -1,13 +1,55 @@
-# Funcionamiento del módulo:
-El módulo tiene varias funciones:
+# **FUNCIONAMIENTO DEL MÓDULO:**
+El módulo tiene varias funciones, con diferentes categorías:
 
+## __**BIOMAS**:__
 - findBiomeByName: Busca por **nombre** un bioma;
+```
+const biome = new Biome("es").findBiomeByName(name);
+```
+
+## __**BLOQUES:**__
 - findBlockByName: Busca por **nombre** un bloque;
+```
+const block = new Block("es").findBlockByName(name);
+```
+
+## __**EFECTOS:**__
 - findEffectByName: Busca por **nombre** un efecto;
+```
+const effect = new Effect("es").findEffectByName(name);
+```
+
+## __**ENCANTAMIENTOS:**__
 - findEnchantByName: Busca por **nombre** un encantamiento;
+```
+const enchant = new Enchant("es").findEnchantByName(name);
+```
+- getRandomEnchant: Busca **aleatoriamente** un encantamiento;
+```
+const enchant = new Enchant("es").getRandomEnchant();
+```
+
+## __**ITEMS:**__
 - findItemByName: Busca por **nombre** un item;
+```
+const item = new Item("es").findItemByName(name);
+```
+
+## __**MOBS:**__
 - findMobByName: Busca por **nombre** un mob;
+```
+const mob = new Mob("es").findMobByName(name);
+```
+- getRandomMob: Busca **aleatoriamente** un mob;
+```
+const mob = new Mob("es").getRandomMob();
+```
+
+## __**ESTRUCTURAS:**__
 - findStructureByName: Busca por **nombre** una estructura;
+```
+const structure = new Structure("es").findStructureByName(name);
+```
 
 ## **OBJETIVOS:**
 - [x] Terminar los encantamientos **(Terminados el día 26/07/2021)**
