@@ -1,6 +1,8 @@
 # MINECRAFT DATA
 An NPM module that includes a library on all possible aspects of Minecraft, for public use and constantly updated.Some of the options are: mods, enchantments, effects, structures, biomes...
 
+![presetation_image](general_doc_image.png)
+
 Programmed by Vera and helped by the Discord server team "Minecraft Español" ([Link to the server](https://discord.gg/mc-es))
 
 ## STARTING

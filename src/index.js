@@ -15,16 +15,37 @@ class Info {
         return biome || 0;
     }
 
+    getRandomBiome() {
+        const biomesLength = Object.keys(this.biomes).length - 1;
+        const biomeAleatory = Math.floor(Math.random() * (biomesLength - 1)) + 1;
+
+        return this.mobs[biomeAleatory] || 0;
+    }
+
     // BLOCKS
     findBlockByName(name) {
         const block = Object.values(this.blocks).find((block) => block.name === name);
         return block || 0;
     }
 
+    getRandomBlock() {
+        const blocksLength = Object.keys(this.blocks).length - 1;
+        const blockAleatory = Math.floor(Math.random() * (blocksLength - 1)) + 1;
+
+        return this.mobs[blockAleatory] || 0;
+    }
+
     // EFFECTS
     findEffectByName(name) {
         const effect = Object.values(this.effects).find((effect) => effect.name === name);
         return effect || 0;
+    }
+
+    getRandomEffect() {
+        const effectsLength = Object.keys(this.effects).length - 1;
+        const effectAleatory = Math.floor(Math.random() * (effectsLength - 1)) + 1;
+
+        return this.mobs[effectAleatory] || 0;
     }
 
     // ENCHANTS
@@ -46,6 +67,13 @@ class Info {
         return item || 0;
     }
 
+    getRandomItem() {
+        const itemsLength = Object.keys(this.items).length - 1;
+        const itemAleatory = Math.floor(Math.random() * (itemsLength - 1)) + 1;
+
+        return this.mobs[itemAleatory] || 0;
+    }
+
     // MOBS
     findMobByName(name) {
         const mob = Object.values(this.mobs).find((mob) => mob.name === name);
@@ -63,6 +91,13 @@ class Info {
     findStructureByName(name) {
         const structure = Object.values(this.structures).find((structure) => structure.name === name);
         return structure || 0;
+    }
+
+    getRandomStructure() {
+        const structuresLength = Object.keys(this.structures).length - 1;
+        const structureAleatory = Math.floor(Math.random() * (structuresLength - 1)) + 1;
+
+        return this.mobs[structureAleatory] || 0;
     }
 }
 
