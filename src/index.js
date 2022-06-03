@@ -19,7 +19,7 @@ class Info {
         const biomesLength = Object.keys(this.biomes).length - 1;
         const biomeAleatory = Math.floor(Math.random() * (biomesLength - 1)) + 1;
 
-        return this.mobs[biomeAleatory] || 0;
+        return this.biomes[biomeAleatory] || 0;
     }
 
     // BLOCKS
@@ -32,7 +32,7 @@ class Info {
         const blocksLength = Object.keys(this.blocks).length - 1;
         const blockAleatory = Math.floor(Math.random() * (blocksLength - 1)) + 1;
 
-        return this.mobs[blockAleatory] || 0;
+        return this.blocks[blockAleatory] || 0;
     }
 
     // EFFECTS
@@ -45,7 +45,7 @@ class Info {
         const effectsLength = Object.keys(this.effects).length - 1;
         const effectAleatory = Math.floor(Math.random() * (effectsLength - 1)) + 1;
 
-        return this.mobs[effectAleatory] || 0;
+        return this.effects[effectAleatory] || 0;
     }
 
     // ENCHANTS
@@ -71,7 +71,7 @@ class Info {
         const itemsLength = Object.keys(this.items).length - 1;
         const itemAleatory = Math.floor(Math.random() * (itemsLength - 1)) + 1;
 
-        return this.mobs[itemAleatory] || 0;
+        return this.items[itemAleatory] || 0;
     }
 
     // MOBS
@@ -97,7 +97,7 @@ class Info {
         const structuresLength = Object.keys(this.structures).length - 1;
         const structureAleatory = Math.floor(Math.random() * (structuresLength - 1)) + 1;
 
-        return this.mobs[structureAleatory] || 0;
+        return this.structures[structureAleatory] || 0;
     }
 }
 
