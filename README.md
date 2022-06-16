@@ -1,11 +1,22 @@
 # MINECRAFT DATA
-An NPM module that includes a library on all possible aspects of Minecraft, for public use and constantly updated.Some of the options are: mods, enchantments, effects, structures, biomes...
+An NPM module that includes a library on all possible aspects of Minecraft, for public use and constantly updated. Some of the options are: mobs, enchantments, effects, structures, biomes...
 
 ![presetation_image](general_doc_image.png)
 
-Programmed by Vera and helped by the Discord server team "Minecraft Español" ([Link to the server](https://discord.gg/mc-es))
+# THANKS TO...
+List of the people who helped making this module:
+- Luis
+- Esc
+- Jirafita
+- Javi
+- Night
+- Apple
+- Wesly
+- The Discord server team "Minecraft Español" ([Link to the server](https://discord.gg/mc-es))
 
-## STARTING
+Thanks to all of them, for making this possible!
+
+# STARTING
 1- First of all, you need to install the package, like this:
 ```
 npm i @veraa/minecraft-data
@@ -22,7 +33,11 @@ const variable = new MinecraftData("language").function(anotherVariable);
 - **.function()** is the function you are looking for (for different functions, look at the docs, links below)
 - **anotherVariable** goes (if needed) for another variable (for example, if you need to look up after a mob through a name)
 
-## Documentation:
+# DOCUMENTATION:
 - **Español**: [Click Aquí](https://github.com/Vera0011/Minecraft_data/blob/master/docs/apiEs.md)
 - **English**: [Click Here](https://github.com/Vera0011/Minecraft_data/blob/master/docs/apiEn.md)
 - **Français**: [Clickez Ici](https://github.com/Vera0011/Minecraft_data/blob/master/docs/apiFr.md)
+
+# CONTACT:
+You need help? Join our [Discord server](https://discord.gg/rzu925jcCb)\
+You want to help us? Write us to contact.vera0011@gmail.com
