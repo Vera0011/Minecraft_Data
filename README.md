@@ -5,13 +5,11 @@ An NPM module that includes a library on all possible aspects of Minecraft, for 
 
 # THANKS TO...
 List of the people who helped making this module:
-- Luis
-- Esc
-- Jirafita
-- Javi
-- Night
-- Apple
 - Wesly
+- Luis
+- Javi
+- Apple
+- Night
 - The Discord server team "Minecraft Español" ([Link to the server](https://discord.gg/mc-es))
 
 Thanks to all of them, for making this possible!
@@ -40,4 +38,4 @@ const variable = new MinecraftData("language").function(anotherVariable);
 
 # CONTACT:
 You need help? Join our [Discord server](https://discord.gg/rzu925jcCb)\
-You want to help us? Write us to contact.vera0011@gmail.com
+You want to help us? Contact us through `contact.vera0011@gmail.com`

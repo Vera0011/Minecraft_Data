@@ -6,13 +6,11 @@
         "Vera"
     ],
     "colaborators": [
+        "Wesly",
         "Luis",
-        "Esc",
-        "Yann",
         "Javi",
-        "Night",
         "Apple",
-        "Wesly"
+        "Night"
     ],
     "main": "src/main.js",
     "scripts": {
