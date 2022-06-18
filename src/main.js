@@ -10,9 +10,10 @@ class Info {
         this.foodstuffs = require(`${__dirname}/assets/${languaje}/foodstuffs.js`);
         this.redstone = require(`${__dirname}/assets/${languaje}/redstone.js`);
         this.tools = require(`${__dirname}/assets/${languaje}/tools.js`);
+        this.transportation = require(`${__dirname}/assets/${languaje}/transportation.js`);
 
         this.language = languaje;
-        this.array = [this.effects, this.mobs, this.structures, this.brewing, this.combat, this.foodstuffs, this.redstone, this.tools];
+        this.array = [this.effects, this.mobs, this.structures, this.brewing, this.combat, this.foodstuffs, this.redstone, this.tools, this.transportation];
     }
 
     search(name) {

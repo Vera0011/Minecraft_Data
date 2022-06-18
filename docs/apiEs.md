@@ -26,7 +26,7 @@ const result = new MinecraftData("es").getRandom(name);
 - [x] Redstone
 - [x] Estructuras
 - [x] Herramientas
-- [ ] Transporte
+- [x] Transporte
 
 # ¿Necesitas más ayuda? ¡Contáctanos!
 - Contacto:
