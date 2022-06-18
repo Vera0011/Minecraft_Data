@@ -49,5 +49,4 @@ console.log(`# \x1b[30m\x1b[47m¡¡ Thanks for using ${require("../package.json"
 
 console.log("############################################################################################################\n\n")
 
-console.log(new Info("es").search("boton"));
 module.exports = Info;
