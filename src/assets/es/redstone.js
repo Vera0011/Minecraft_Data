@@ -61,7 +61,7 @@ const redstoneEs = {
 
     7: {
         category: "redstone",
-        image: ["https: //static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/Sticky_Piston_%28U%29_JE3.gif/revision/latest/scale-to-width-down/150?cb=20190825201313"],
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/Sticky_Piston_%28U%29_JE3.gif/revision/latest/scale-to-width-down/150?cb=20190825201313"],
         color: "#51D675",
         tag: "sticky_piston",
         name: "piston_pegajoso",

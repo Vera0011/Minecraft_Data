@@ -38,16 +38,4 @@ class Info {
     }
 }
 
-const creators = require("../package.json").creators;
-const colaborators = require("../package.json").colaborators;
-const space1 = "                                                             ";
-const space2 = "                                                                                  ";
-const space3 = "                                                                                                          ";
-const space4 = "                                      ";
-
-console.log("\n\n############################################################################################################")
-console.log(`# \x1b[30m\x1b[47m¡¡ Thanks for using ${require("../package.json").name} !!\x1b[0m${space1}#\n#${space3}#\n# The creator is: \x1b[30m\x1b[47m ${creators.toString().replaceAll(",", ", ")} \x1b[0m.${space2}#\n# The colaborators are: \x1b[30m\x1b[47m ${colaborators.toString().replaceAll(",", ", ")} \x1b[0m.${space4}#\n#${space3}#\n# If you encounter any problem, please, report it here: https://github.com/Vera0011/Minecraft_Data/issues  #`);
-
-console.log("############################################################################################################\n\n")
-
 module.exports = Info;

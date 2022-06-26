@@ -7,7 +7,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Apple_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200519232834"],
         stacksize: "64",
         obtained: ["Árboles", "Comercio"],
-        restore: "2",
+        restore: "2 corazones",
         color: "#FD3F3F",
         rank: "Común"
     },
@@ -20,7 +20,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Baked_Potato_JE4_BE2.png/revision/latest/scale-to-width-down/160?cb=20190430222641"],
         stacksize: "64",
         obtained: ["Cocinar", "Mobs"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#E6EF90",
         rank: "Común"
     },
@@ -33,7 +33,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Beetroot_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190503043121"],
         stacksize: "64",
         obtained: ["Cultivo"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#B96464",
         rank: "Común"
     },
@@ -46,7 +46,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Beetroot_Soup_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190503043416"],
         stacksize: "1",
         obtained: ["Crafteo"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#B96464",
         rank: "Común"
     },
@@ -59,7 +59,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/44/Bread_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20190503044317"],
         stacksize: "64",
         obtained: ["Crafteo"],
-        restore: "2.5",
+        restore: "2.5 corazones",
         color: "#D8C969",
         rank: "Común"
     },
@@ -72,7 +72,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/53/Cake_JE4.png/revision/latest/scale-to-width-down/150?cb=20200518185831"],
         stacksize: "1",
         obtained: ["Crafteo", "Comercio"],
-        restore: "7",
+        restore: "7 corazones",
         color: "#F1EFDF",
         rank: "Común"
     },
@@ -85,7 +85,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Carrot_JE3_BE2.png/revision/latest?cb=20200510235333"],
         stacksize: "64",
         obtained: ["Cultivo"],
-        restore: "1.5",
+        restore: "1.5 corazones",
         color: "#E98E39",
         rank: "Común"
     },
@@ -98,7 +98,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/33/Chorus_Fruit_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190505051041"],
         stacksize: "64",
         obtained: ["Árboles del End"],
-        restore: "2",
+        restore: "2 corazones",
         color: "#E570D5",
         rank: "Común"
     },
@@ -111,7 +111,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/Cooked_Chicken_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200430031305"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -124,7 +124,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/53/Cooked_Cod_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20190521032615"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "2.5",
+        restore: "2.5 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -137,7 +137,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Cooked_Mutton_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20190504060132"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -150,7 +150,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ee/Cooked_Porkchop_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20190504061538"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "4",
+        restore: "4 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -163,7 +163,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Cooked_Rabbit_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20190505050800"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "2.5",
+        restore: "2.5 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -176,7 +176,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2b/Cooked_Salmon_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190403183831"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#755D1B",
         rank: "Común"
     },
@@ -189,7 +189,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Cookie_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190505051355"],
         stacksize: "64",
         obtained: ["Crafteo", "Comercio"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#BB9F52",
         rank: "Común"
     },
@@ -202,7 +202,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/Dried_Kelp_JE1.png/revision/latest/scale-to-width-down/160?cb=20190403184613"],
         stacksize: "64",
         obtained: ["Cocinar", "Crafteo"],
-        restore: "0.5",
+        restore: "0.5 corazones",
         color: "#181714",
         rank: "Común"
     },
@@ -215,7 +215,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif/revision/latest/scale-to-width-down/160?cb=20200430025309"],
         stacksize: "64",
         obtained: ["Generación natural"],
-        restore: "2",
+        restore: "2 corazones",
         color: "#F5E333",
         rank: "Épico"
     },
@@ -228,7 +228,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/54/Golden_Apple_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200521041809"],
         stacksize: "64",
         obtained: ["Crafteo", "Generación natural"],
-        restore: "2",
+        restore: "2 corazones",
         color: "#F5E333",
         rank: "Raro"
     },
@@ -241,7 +241,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Glow_Berries_JE1_BE1.png/revision/latest/scale-to-width-down/32?cb=20210308034910"],
         stacksize: "64",
         obtained: ["Cultivo"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#E1DF42",
         rank: "Común"
     },
@@ -254,7 +254,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Honey_Bottle_JE1_BE2.png/revision/latest/scale-to-width-down/160?cb=20190822170711"],
         stacksize: "16",
         obtained: ["Crafteo", "Cosecha"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#F5E333",
         rank: "Común"
     },
@@ -267,7 +267,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Melon_Slice_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190505051737"],
         stacksize: "64",
         obtained: ["Cultivo"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#EA4F4F",
         rank: "Común"
     },
@@ -280,7 +280,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Mushroom_Stew_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190505052018"],
         stacksize: "1",
         obtained: ["Cosecha", "Crafteo"],
-        restore: "3",
+        restore: "3 corazones",
         color: "#AE8D3A",
         rank: "Común"
     },
@@ -293,7 +293,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c0/Poisonous_Potato_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200521233152"],
         stacksize: "64",
         obtained: ["Generación natural"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#30CA5C",
         rank: "Común"
     },
@@ -306,7 +306,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Potato_JE3_BE2.png/revision/latest/scale-to-width-down/32?cb=20190430222727"],
         stacksize: "64",
         obtained: ["Generación natural", "Dropeo"],
-        restore: "0.5",
+        restore: "0.5 corazones",
         color: "#EEF35D",
         rank: "Común"
     },
@@ -319,7 +319,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/02/Pufferfish_%28item%29_JE5_BE2.png/revision/latest/scale-to-width-down/160?cb=20191230044451"],
         stacksize: "64",
         obtained: ["Pesca", "Dropeo"],
-        restore: "0.5",
+        restore: "0.5 corazones",
         color: "#C2C729",
         rank: "Común"
     },
@@ -332,7 +332,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Pumpkin_Pie_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20190512213136"],
         stacksize: "64",
         obtained: ["Crafteo"],
-        restore: "4",
+        restore: "4 corazones",
         color: "#EAC572",
         rank: "Común"
     },
@@ -345,7 +345,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0c/Rabbit_Stew_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20190512214401"],
         stacksize: "1",
         obtained: ["Crafteo", "Aldeanos"],
-        restore: "5",
+        restore: "5 corazones",
         color: "#715922",
         rank: "Común"
     },
@@ -358,7 +358,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Raw_Beef_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20190504054851"],
         stacksize: "64",
         obtained: ["Dropeo"],
-        restore: "1.5",
+        restore: "1.5 corazones",
         color: "#C05151",
         rank: "Común"
     },
@@ -371,7 +371,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/51/Raw_Chicken_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200430031136"],
         stacksize: "64",
         obtained: ["Dropeo"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#E9DEDE",
         rank: "Común"
     },
@@ -384,7 +384,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ef/Raw_Cod_JE4_BE2.png/revision/latest/scale-to-width-down/160?cb=20190403183136"],
         stacksize: "64",
         obtained: ["Dropeo", "Pesca"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#E7CA9B",
         rank: "Común"
     },
@@ -397,7 +397,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f3/Raw_Mutton_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20190504055753"],
         stacksize: "64",
         obtained: ["Dropeo"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#C05151",
         rank: "Común"
     },
@@ -410,7 +410,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Raw_Porkchop_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20190504060623"],
         stacksize: "64",
         obtained: ["Dropeo"],
-        restore: "1.5",
+        restore: "1.5 corazones",
         color: "#BF6868",
         rank: "Común"
     },
@@ -423,7 +423,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Raw_Rabbit_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200108004228"],
         stacksize: "64",
         obtained: ["Dropeo"],
-        restore: "1.5",
+        restore: "1.5 corazones",
         color: "#E9DEDE",
         rank: "Común"
     },
@@ -436,7 +436,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/75/Raw_Salmon_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20191230044441"],
         stacksize: "64",
         obtained: ["Dropeo", "Pesca"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#E07A7A",
         rank: "Común"
     },
@@ -449,7 +449,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Steak_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20190504055306"],
         stacksize: "64",
         obtained: ["Cocinar"],
-        restore: "4",
+        restore: "4 corazones",
         color: "#802A2A",
         rank: "Común"
     },
@@ -460,7 +460,7 @@ const foodEs = {
         tag: "suspicious_stew",
         displayname: "Estofado sospechoso",
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/da/Suspicious_Stew_JE1_BE1.png/revision/latest/scale-to-width-down/160?cb=20190512110804"],
-        stacksize: "1",
+        stacksize: "1 corazones",
         obtained: ["Crafteo"],
         restore: "3",
         color: "#59D55D",
@@ -475,7 +475,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Sweet_Berries_JE1_BE1.png/revision/latest/scale-to-width-down/32?cb=20190604204938"],
         stacksize: "64",
         obtained: ["Cosecha"],
-        restore: "1",
+        restore: "1 corazones",
         color: "#BC2424",
         rank: "Común"
     },
@@ -488,7 +488,7 @@ const foodEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ad/Tropical_Fish_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20191230044407"],
         stacksize: "64",
         obtained: ["Pesca", "Dropeo"],
-        restore: "0.5",
+        restore: "0.5 corazones",
         color: "#EC6615",
         rank: "Común"
     }

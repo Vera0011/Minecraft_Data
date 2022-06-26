@@ -8,9 +8,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Netherite_Pickaxe_JE3.png/revision/latest/scale-to-width-down/160?cb=20210418192807"],
         color: "#2A2525",
         displayname: "Pico de netherita",
-        durability: "2031",
+        durability: "2031 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparacion", "Maldición de desaparición"],
-        description: ""
+        description: "Un pico ignífugo creado luego de fusionar un pico de diamante con un lingote de netherita."
     },
 
     2: {
@@ -20,9 +20,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/df/Netherite_Axe_JE2.png/revision/latest/scale-to-width-down/160?cb=20200522035253"],
         color: "#2A2525",
         displayname: "Hacha de netherita",
-        durability: "2031",
+        durability: "2031 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "Un hacha ignífuga creada luego de fusionar un hacha de diamante con un lingote de netherita."
     },
 
     3: {
@@ -32,9 +32,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a1/Netherite_Shovel_JE2_BE1.png/revision/latest/scale-to-width-down/160?cb=20200304185542"],
         color: "#2A2525",
         displayname: "Pala de netherita",
-        durability: "2031",
+        durability: "2031 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "Una pala ignífuga creada luego de fusionar una pala de diamante con un lingote de netherita."
     },
 
     4: {
@@ -44,9 +44,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Netherite_Hoe_JE2.png/revision/latest/scale-to-width-down/160?cb=20200526212455"],
         color: "#2A2525",
         displayname: "Azada de netherita",
-        durability: "2031",
+        durability: "2031 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "Una azada ignífuga creada luego de fusionar una azada de diamante con un lingote de netherita."
     },
 
     5: {
@@ -56,9 +56,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e7/Diamond_Pickaxe_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226193952"],
         color: "#5EF3EA",
         displayname: "Pico de diamante",
-        durability: "1561",
+        durability: "1561 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El pico de diamante se utiliza para extraer bloques básicos de tipo piedra más rápido que un pico de madera"
     },
 
     6: {
@@ -68,9 +68,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ae/Diamond_Axe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200522035354"],
         color: "#5EF3EA",
         displayname: "Hacha de diamante",
-        durability: "1562",
+        durability: "1561 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El hacha de diamante, al igual que otras hachas, se utilizan principalmente para obtener materiales de madera"
     },
 
     7: {
@@ -80,9 +80,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/61/Diamond_Shovel_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217235341"],
         color: "#5EF3EA",
         displayname: "Pala de diamante",
-        durability: "1561",
+        durability: "1561 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Reparacion", "Maldición de desaparición"],
-        description: ""
+        description: "La pala de diamante se utiliza para extraer tierra, grava y arena más rápidamente, para obtener bolas de nieve y para hacer caminos de tierra y apagar hogueras"
     },
 
     8: {
@@ -92,9 +92,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Diamond_Hoe_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226193929"],
         color: "#5EF3EA",
         displayname: "Azada de diamante",
-        durability: "1561",
+        durability: "1561 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La azada de diamante se utilizan para labrar tierra con el fin de poder hacer cultivos. También es la herramienta adecuada para extraer hojas, esponjas, balas de heno, etc."
     },
 
     9: {
@@ -104,9 +104,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a6/Golden_Pickaxe_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226194041"],
         color: "#ECEC41",
         displayname: "Pico de oro",
-        durability: "32",
+        durability: "32 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparacion", "Maldición de desaparición"],
-        description: ""
+        description: "El pico de oro se utiliza para extraer bloques básicos de tipo piedra más rápido que un pico de madera"
     },
 
     10: {
@@ -116,9 +116,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Golden_Axe_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234513"],
         color: "#ECEC41",
         displayname: "Hacha de oro",
-        durability: "33",
+        durability: "32 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparacion", "Maldición de desaparición"],
-        description: ""
+        description: "El hacha de oro, al igual que otras hachas, se utilizan principalmente para obtener materiales de madera"
     },
 
     11: {
@@ -128,9 +128,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c9/Golden_Shovel_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217235415"],
         color: "#ECEC41",
         displayname: "Pala de oro",
-        durability: "32",
+        durability: "32 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La pala de oro se utiliza para extraer tierra, grava y arena más rápidamente, para obtener bolas de nieve y para hacer caminos de tierra y apagar hogueras"
     },
 
     12: {
@@ -140,9 +140,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Golden_Hoe_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226194031"],
         color: "#ECEC41",
         displayname: "Azada de oro",
-        durability: "32",
+        durability: "32 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La azada de oro se utilizan para labrar tierra con el fin de poder hacer cultivos. También es la herramienta adecuada para extraer hojas, esponjas, balas de heno, etc."
     },
 
     13: {
@@ -152,9 +152,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Iron_Pickaxe_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200105053011"],
         color: "#C7C7BB",
         displayname: "Pico de hierro",
-        durability: "250",
+        durability: "250 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El pico de hierro se utiliza para extraer bloques básicos de tipo piedra más rápido que un pico de madera."
     },
 
     14: {
@@ -164,9 +164,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5e/Iron_Axe_JE5_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234438"],
         color: "#C7C7BB",
         displayname: "Hacha de hierro",
-        durability: "251",
+        durability: "250 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El hacha de hierro, al igual que otras hachas, se utilizan principalmente para obtener materiales de madera."
     },
 
     15: {
@@ -176,9 +176,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/aa/Iron_Shovel_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217235306"],
         color: "#C7C7BB",
         displayname: "Pala de hierro",
-        durability: "250",
+        durability: "250 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La pala de hierro se utiliza para extraer tierra, grava y arena más rápidamente, para obtener bolas de nieve y para hacer caminos de tierra y apagar hogueras."
     },
 
     16: {
@@ -188,9 +188,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Iron_Hoe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200128141346"],
         color: "#C7C7BB",
         displayname: "Azada de hierro",
-        durability: "250",
+        durability: "250 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La azada de hierro se utilizan para labrar tierra con el fin de poder hacer cultivos. También es la herramienta adecuada para extraer hojas, esponjas, balas de heno, etc."
     },
 
     17: {
@@ -200,9 +200,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Stone_Pickaxe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234007"],
         color: "#999988",
         displayname: "Pico de piedra",
-        durability: "131",
+        durability: "131 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El pico de piedra se utiliza para extraer bloques básicos de tipo piedra más rápido que un pico de madera."
     },
 
     18: {
@@ -212,9 +212,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/02/Stone_Axe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234417"],
         color: "#999988",
         displayname: "Hacha de piedra",
-        durability: "132",
+        durability: "131 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparacion", "Maldición de desaparición"],
-        description: ""
+        description: "El hacha de piedra, al igual que otras hachas, se utilizan principalmente para obtener materiales de madera."
     },
 
     19: {
@@ -224,9 +224,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Stone_Shovel_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217235006"],
         color: "#999988",
         displayname: "Pala de piedra",
-        durability: "131",
+        durability: "131 usos",
         enchants: ["Fortuna", "Toque de Seda", "Eficiencia", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La pala de piedra se utiliza para extraer tierra, grava y arena más rápidamente, para obtener bolas de nieve y para hacer caminos de tierra y apagar hogueras."
     },
 
     20: {
@@ -236,9 +236,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Stone_Hoe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200128141332"],
         color: "#999988",
         displayname: "Azada de piedra",
-        durability: "131",
+        durability: "131 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La azada de piedra se utilizan para labrar tierra con el fin de poder hacer cultivos. También es la herramienta adecuada para extraer hojas, esponjas, balas de heno, etc."
     },
 
     21: {
@@ -248,9 +248,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0b/Wooden_Pickaxe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217231203"],
         color: "#401208",
         displayname: "Pico de madera",
-        durability: "59",
+        durability: "59 usos",
         enchants: ["Eficiencia", "Fortuna", "Toque de seda", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El pico de madera se utiliza para extraer bloques básicos de tipo piedra."
     },
 
     22: {
@@ -260,9 +260,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/56/Wooden_Axe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234355"],
         color: "#401208",
         displayname: "Hacha de madera",
-        durability: "60",
+        durability: "59 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Filo", "Golpeo", "Perdición de los artrópodos", "Aspecto ígneo", "Botin", "Empuje", "Filo arrasador", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "El hacha de madera, al igual que otras hachas, se utilizan principalmente para obtener materiales de madera"
     },
 
     23: {
@@ -272,9 +272,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Wooden_Shovel_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234949"],
         color: "#401208",
         displayname: "Pala de madera",
-        durability: "59",
+        durability: "59 usos",
         enchants: ["Fortuna", "Toque de seda", "Eficiencia", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La pala de madera se utiliza para extraer tierra, grava y arena más rápidamente, para obtener bolas de nieve y para hacer caminos de tierra y apagar hogueras"
     },
 
     24: {
@@ -284,9 +284,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cd/Wooden_Hoe_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226194121"],
         color: "#401208",
         displayname: "Azada de madera",
-        durability: "59",
+        durability: "59 usos",
         enchants: ["Eficiencia", "Fortuna", "Irrompibilidad", "Toque de seda", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "La azada de madera se utilizan para labrar tierra con el fin de poder hacer cultivos. También es la herramienta adecuada para extraer hojas, esponjas, balas de heno, etc"
     },
 
     25: {
@@ -296,9 +296,9 @@ const toolsEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/94/Flint_and_Steel_JE4_BE2.png/revision/latest/scale-to-width-down/160?cb=20200127082924"],
         color: "#827B72",
         displayname: "Mechero",
-        durability: "64",
+        durability: "64 usos",
         enchants: ["Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        description: ""
+        description: "Crea un bloque de fuego y puede encender portales al Nether al ser usado."
     },
 
     26: {
@@ -307,7 +307,7 @@ const toolsEs = {
         name: "eficiencia",
         displayname: "Eficiencia",
         image: [img2, img],
-        maxLevel: "5",
+        maxLevel: "Nivel 5",
         description: "Aumenta la velocidad del objeto encantado",
         permitedItems: ["Pico", "Pala", "Hacha", "Azada", "Tijeras"],
         incompatibleWith: "Sin incompatibilidad",
@@ -320,7 +320,7 @@ const toolsEs = {
         name: "toque_de_seda",
         displayname: "Toque de seda",
         image: [img2, img],
-        maxLevel: "1",
+        maxLevel: "Nivel 1",
         description: "Los bloques minados son soltados en su forma natural, con algunas excepciones",
         permitedItems: ["Pico", "Pala", "Hacha", "Azada"],
         incompatibleWith: "Fortuna",
@@ -333,7 +333,7 @@ const toolsEs = {
         name: "irrompibilidad",
         displayname: "Irrompibilidad",
         image: [img2, img],
-        maxLevel: "3",
+        maxLevel: "Nivel 3",
         description: "Reduce la posibilidad de que un objeto sea dañado",
         permitedItems: ["Armadura completa", "Espada", "Pico", "Pala", "Hacha", "Azada", "Caña de pescar", "Arco", "Tijeras", "Mechero", "Caña con zanahoria", "Escudo", "Elitros", "Tridente", "Ballesta", "Caña con hongo distorsionado"],
         incompatibleWith: "Sin incompatibilidad",
@@ -346,7 +346,7 @@ const toolsEs = {
         name: "fortuna",
         displayname: "Fortuna",
         image: [img2, img],
-        maxLevel: "3",
+        maxLevel: "Nivel 3",
         description: "Aumenta la probabilidad de sacar más objetos de bloques",
         permitedItems: ["Pico", "Pala", "Hacha", "Azada"],
         incompatibleWith: "Toque de seda",
@@ -359,7 +359,7 @@ const toolsEs = {
         name: "suerte_marina",
         displayname: "Suerte marina",
         image: [img2, img],
-        maxLevel: "3",
+        maxLevel: "Nivel 3",
         description: "Aumenta la probabilidad de conseguir tesoros al pescar",
         permitedItems: "Caña de pescar",
         incompatibleWith: "Sin incompatibilidad",
@@ -372,7 +372,7 @@ const toolsEs = {
         name: "atraccion",
         displayname: "Atracción",
         image: [img2, img],
-        maxLevel: "3",
+        maxLevel: "Nivel 3",
         description: "Disminuye el tiempo de espera a la hora de pescar",
         permitedItems: "Caña de pescar",
         incompatibleWith: "Sin incompatibilidad",
@@ -385,7 +385,7 @@ const toolsEs = {
         name: "reparacion",
         displayname: "Reparación",
         image: [img2, img],
-        maxLevel: "1",
+        maxLevel: "Nivel 1",
         description: "Un encantamiento que restaura la durabilidad de un objeto utilizando la experiencia.",
         permitedItems: ["Armadura completa", "Espada", "Pico", "Pala", "Hacha", "Azada", "Caña de pescar", "Arco", "Tijeras", "Mechero", "Caña con zanahoria", "Escudo", "Elitros", "Tridente", "Ballesta", "Caña con hongo distorsionado"],
         incompatibleWith: "Infinidad",
@@ -398,7 +398,7 @@ const toolsEs = {
         name: "maldicion_de_desaparicion",
         displayname: "Maldición de desaparición",
         image: [img2, img],
-        maxLevel: "1",
+        maxLevel: "Nivel 1",
         description: "Los objetos con este encantamiento desaparecen luego de que un jugador que los lleve muera",
         permitedItems: ["Armadura completa", "Espada", "Pico", "Pala", "Hacha", "Azada", "Caña de pescar", "Arco", "Tijeras", "Mechero", "Brújula", "Caña con zanahoria", "Escudo", "Elitros", "Calabaza", "Cabeza", "Tridente", "Ballesta", "Caña con hongo distorsionado"],
         incompatibleWith: "Sin incompatibilidad",
@@ -454,7 +454,7 @@ const toolsEs = {
         name: "rienda",
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Lead_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20191229205413"],
         displayname: "Rienda",
-        description: "Un objeto que permite atar y llevar criaturas."
+        description: "Un objeto que permite atar y llevar criaturas. Tiene la habilidad de crear una caravana de llamas."
     },
 
     39: {
