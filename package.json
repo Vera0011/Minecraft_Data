@@ -1,6 +1,6 @@
 {
     "name": "@veraa/minecraft-data",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "A Minecraft NPM module who integrates all the stuff from Minecraft",
     "creators": [
         "Vera"
