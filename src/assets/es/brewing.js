@@ -6,7 +6,7 @@ const brewingEs = {
         tag: "ghast_tear",
         name: "lagrima_de_ghast",
         displayname: "Lágrima de ghast",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Poción vulgar", "Poción de regeneración", "Cristal del End"],
         obtained: ["Dropeo"]
@@ -19,7 +19,7 @@ const brewingEs = {
         tag: "fermented_eye_spider",
         name: "ojo_de_araña_fermentado",
         displayname: "Ojo de araña fermentado",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Poción de debilidad", "Poción de daño", "Poción de lentitud", "Poción de invisibilidad"],
         obtained: ["Crafteo"]
@@ -32,7 +32,7 @@ const brewingEs = {
         tag: "blaze_powder",
         name: "polvo_de_blaze",
         displayname: "Polvo de blaze",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Ojo de ender", "Carga de fuego", "Crema de magma", "Poción de fuerza", "Poción vulgar"],
         obtained: ["Crafteo"]
@@ -45,7 +45,7 @@ const brewingEs = {
         tag: "magma_cream",
         name: "crema_de_magma",
         displayname: "Crema de magma",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Poción vulgar", "Poción de resistencia al fuego", "Bloque de magma"],
         obtained: ["Crafteo"]
@@ -58,7 +58,7 @@ const brewingEs = {
         tag: "brewing_stand",
         name: "mesa_de_pociones",
         displayname: "Soporte para pociones",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Creación de pociones"],
         obtained: ["Crafteo", "Generación natual"]
@@ -71,7 +71,7 @@ const brewingEs = {
         tag: "cauldron",
         name: "caldera",
         displayname: "Caldero",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Almacenar líquidos"],
         obtained: ["Crafteo", "Generación natural"]
@@ -84,7 +84,7 @@ const brewingEs = {
         tag: "glistering_melon_slice",
         name: "rebanada_de_melon_reluciente",
         displayname: "Rodaja de sandía reluciente",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Poción vulgar", "Poción de curación"],
         obtained: ["Crafteo", "Comercio"]
@@ -96,7 +96,7 @@ const brewingEs = {
         tag: "golden_carrot",
         displayname: "Zanahoria dorada",
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/aa/Golden_Carrot_JE4_BE2.png/revision/latest/scale-to-width-down/160?cb=20200430031437"],
-        stacksize: "64",
+        stacksize: "64 items",
         obtained: ["Generación natural", "Crafteo", "Comercio"],
         usedfor: ["Poción de visión nocturna"],
         color: "#F5E333",
@@ -110,7 +110,7 @@ const brewingEs = {
         tag: "rabbit_foot",
         name: "pata_de_conejo",
         displayname: "Pata de conejo",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Común",
         usedfor: ["Poción vulgar", "Poción de salto"],
         obtained: ["Dropeo"]
@@ -123,7 +123,7 @@ const brewingEs = {
         tag: "dragon_breath",
         name: "aliento_del_dragon",
         displayname: "Aliento del dragón",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Poco común",
         usedfor: ["Alargar pociones"],
         obtained: ["Rellenar una botella con una bola del dragón"]
@@ -136,7 +136,7 @@ const brewingEs = {
         tag: "phantom_membrane",
         name: "membrana_de_phantom",
         displayname: "Membrana de fantasma",
-        stacksize: "64",
+        stacksize: "64 items",
         rank: "Comúm",
         usedfor: ["Reparación", "Poción de caída lenta"],
         obtained: ["Dropeo"]

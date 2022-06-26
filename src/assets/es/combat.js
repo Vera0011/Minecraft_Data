@@ -11,7 +11,7 @@ const combatEs = {
         displayname: "Espada de Netherite",
         durability: "2032 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "8",
+        damage: "8 corazones",
     },
 
     2: {
@@ -23,7 +23,7 @@ const combatEs = {
         displayname: "Espada de Diamante",
         durability: "1561 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "3.5",
+        damage: "3.5 corazones",
     },
 
     3: {
@@ -35,7 +35,7 @@ const combatEs = {
         displayname: "Espada de Oro",
         durability: "32 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "2",
+        damage: "2 corazones",
     },
 
     4: {
@@ -47,7 +47,7 @@ const combatEs = {
         displayname: "Espada de Hierro",
         durability: "250 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "3",
+        damage: "3 corazones",
     },
 
     5: {
@@ -59,7 +59,7 @@ const combatEs = {
         displayname: "Espada de Piedra",
         durability: "131 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "2.5",
+        damage: "2.5 corazones",
     },
 
     6: {
@@ -71,7 +71,7 @@ const combatEs = {
         displayname: "Espada de Madera",
         durability: "59 usos",
         enchants: ["Aspecto Igneo", "Botin", "Irrompibilidad", "Filo", "Golpeo", "Maldicion de los Artropodos", "Empuje", "Reparacion", "Maldicion de Desaparicion", "Filo Arrasador"],
-        damage: "2",
+        damage: "2 corazones",
     },
 
     7: {
@@ -81,7 +81,7 @@ const combatEs = {
         displayname: "Flecha",
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/58/Arrow_JE2_BE1.png/revision/latest/scale-to-width-down/150?cb=20200105214407"],
         color: "#905A28",
-        stacksize: "64"
+        stacksize: "64 items"
     },
 
     8: {
@@ -90,7 +90,7 @@ const combatEs = {
         name: "flecha_espectral",
         displayname: "Flecha espectral",
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/92/Spectral_Arrow_JE3.png/revision/latest/scale-to-width-down/150?cb=20210317200631"],
-        stacksize: "64",
+        stacksize: "64 items",
         color: "#F8F54C"
     },
 
@@ -103,7 +103,7 @@ const combatEs = {
         durability: "384 usos",
         enchants: ["Poder", "Empuje", "Fuego", "Infinidad", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
         color: "#5B4015",
-        damage: "3"
+        damage: "3 corazones"
     },
 
     10: {
@@ -115,7 +115,7 @@ const combatEs = {
         durability: "250 usos",
         enchants: ["Lealtad", "Propulsión acuática", "Empalamiento", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
         color: "#155B4A",
-        damage: "4.5"
+        damage: "4.5 corazones"
     },
 
     11: {
@@ -127,7 +127,7 @@ const combatEs = {
         durability: "465 usos",
         enchants: ["Carga rápida", "Multidisparo", "Perforación", "Irrompibilidad", "Reparación", "Maldición de desaparición"],
         color: "#5B4015",
-        damage: "4.5"
+        damage: "4.5 corazones"
     },
 
     12: {
@@ -138,8 +138,7 @@ const combatEs = {
         image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2e/Totem_of_Undying_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200522030253"],
         durability: "1 uso",
         enchants: ["Irrompibilidad", "Reparación"],
-        color: "#32DD70",
-        damage: "0"
+        color: "#32DD70"
     },
 
     13: {
@@ -150,7 +149,7 @@ const combatEs = {
         color: "#2A2525",
         durability: "407 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Casco de netherita"
     },
 
@@ -162,7 +161,7 @@ const combatEs = {
         color: "#2A2525",
         durability: "592 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "4",
+        protection: "4 corazones",
         displayname: "Peto de netherita"
     },
 
@@ -174,7 +173,7 @@ const combatEs = {
         color: "#2A2525",
         durability: "555 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "3",
+        protection: "3 corazones",
         displayname: "Grebas de netherita"
     },
 
@@ -186,7 +185,7 @@ const combatEs = {
         color: "#2A2525",
         durability: "481 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Paso helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del alma"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Botas de netherite"
     },
 
@@ -198,7 +197,7 @@ const combatEs = {
         color: "#885530",
         durability: "55 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "0.5",
+        protection: "0.5 corazones",
         displayname: "Sombrero de cuero"
     },
 
@@ -210,7 +209,7 @@ const combatEs = {
         color: "#DCDCD3",
         durability: "165 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1",
+        protection: "1 corazones",
         displayname: "Casco de cota de mallas"
     },
 
@@ -222,7 +221,7 @@ const combatEs = {
         color: "#C7C7BB",
         durability: "165 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1",
+        protection: "1 corazón",
         displayname: "Casco de hierro"
     },
 
@@ -234,7 +233,7 @@ const combatEs = {
         color: "#ECEC41",
         durability: "77 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de Desaparicion", "Maldicion de Ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1",
+        protection: "1 corazón",
         displayname: "Casco de oro"
     },
 
@@ -246,7 +245,7 @@ const combatEs = {
         color: "#5EF3EA",
         durability: "363 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Casco de diamante",
     },
 
@@ -258,7 +257,7 @@ const combatEs = {
         color: "#3EEC63",
         durability: "275 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Afinidad acuatica", "Respiracion"],
-        protection: "1",
+        protection: "1 corazones",
         displayname: "Caparazón de tortuga",
     },
 
@@ -270,7 +269,7 @@ const combatEs = {
         color: "#885530",
         durability: "80 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Túnica de cuero",
     },
 
@@ -282,7 +281,7 @@ const combatEs = {
         color: "#DCDCD3",
         durability: "240 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "2.5",
+        protection: "2.5 corazones",
         displayname: "Peto de cota de mallas",
     },
 
@@ -294,7 +293,7 @@ const combatEs = {
         color: "#C7C7BB",
         durability: "240 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "3",
+        protection: "3 corazones",
         displayname: "Peto de hierro",
     },
 
@@ -306,7 +305,7 @@ const combatEs = {
         color: "#ECEC41",
         durability: "112 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "2.5",
+        protection: "2.5 corazones",
         displayname: "Peto de oro",
     },
 
@@ -318,7 +317,7 @@ const combatEs = {
         color: "#5EF3EA",
         durability: "528 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "4",
+        protection: "4 corazones",
         displayname: "Peto de diamante",
     },
 
@@ -330,7 +329,7 @@ const combatEs = {
         color: "#885530",
         durability: "75 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "1",
+        protection: "1 corazones",
         displayname: "Pantalones de cuero",
     },
 
@@ -342,7 +341,7 @@ const combatEs = {
         color: "#DCDCD3",
         durability: "225 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "2",
+        protection: "2 corazones",
         displayname: "Grebas de cota de mallas",
     },
 
@@ -354,7 +353,7 @@ const combatEs = {
         color: "#C7C7BB",
         durability: "225 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "2.5",
+        protection: "2.5 corazones",
         displayname: "Grebas de hierro",
     },
 
@@ -366,7 +365,7 @@ const combatEs = {
         color: "#ECEC41",
         durability: "105 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Grebas de oro",
     },
 
@@ -378,7 +377,7 @@ const combatEs = {
         color: "#5EF3EA",
         durability: "495 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento"],
-        protection: "3",
+        protection: "3 corazones",
         displayname: "Grebas de diamante",
     },
 
@@ -390,7 +389,7 @@ const combatEs = {
         color: "#885530",
         durability: "65 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Caminante Helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del Alma"],
-        protection: "0.5",
+        protection: "0.5 corazones",
         displayname: "Botas de cuero",
     },
 
@@ -402,7 +401,7 @@ const combatEs = {
         color: "#DCDCD3",
         durability: "195 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Paso helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del alma"],
-        protection: "0.5",
+        protection: "0.5 corazones",
         displayname: "Botas de cota de mallas",
     },
 
@@ -414,7 +413,7 @@ const combatEs = {
         color: "#C7C7BB",
         durability: "195 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Paso helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del alma"],
-        protection: "1",
+        protection: "1 corazones",
         displayname: "Botas de hierro",
     },
 
@@ -426,7 +425,7 @@ const combatEs = {
         color: "#ECEC41",
         durability: "91 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Caminante Helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del alma"],
-        protection: "0.5",
+        protection: "0.5 corazones",
         displayname: "Botas de oro",
     },
 
@@ -438,7 +437,7 @@ const combatEs = {
         color: "#5EF3EA",
         durability: "429 usos",
         enchants: ["Proteccion contra el fuego", "Proteccion contra proyectiles", "Proteccion contra explosiones", "Proteccion", "Irrompibilidad", "Espinas", "Reparacion", "Maldicion de desaparicion", "Maldicion de ligamiento", "Paso helado", "Caida de pluma", "Agilidad acuatica", "Velocidad del alma"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Botas de diamante",
     },
 
@@ -450,7 +449,7 @@ const combatEs = {
         color: "#5B3C1B",
         durability: "336 usos",
         enchants: ["Irrompibilidad", "Reparación", "Maldición de desaparición"],
-        protection: "1.5",
+        protection: "1.5 corazones",
         displayname: "Escudo"
     },
 
@@ -842,11 +841,157 @@ const combatEs = {
         permitedItems: "Armadura completa",
         incompatibleWith: "Sin incompatibilidad",
         color: "#CE75EA"
+    },
+
+    69: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_caida_lenta",
+        displayname: "Flecha de caída lenta",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/14/Arrow_of_Slow_Falling_JE2_BE2.png/revision/latest?cb=20200629175251"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    70: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_resistencia_al_fuego",
+        displayname: "Flecha de resistencia al fuego",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Arrow_of_Fire_Resistance_JE1_BE1.png/revision/latest?cb=20191126065639"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    71: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_daño_instantaneo",
+        displayname: "Flecha de daño instantáneo",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/29/Arrow_of_Harming_JE1_BE1.png/revision/latest?cb=20191126065650"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    72: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_curacion",
+        displayname: "Flecha de curación",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Arrow_of_Healing_JE1_BE1.png/revision/latest?cb=20191126065704"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    73: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_invisibilidad",
+        displayname: "Flecha de invisibilidad",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Arrow_of_Invisibility_JE1_BE1.png/revision/latest?cb=20191126065716"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    74: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_salto",
+        displayname: "Flecha de salto",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Arrow_of_Leaping_JE1_BE1.png/revision/latest?cb=20191126065727"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    75: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_vision_nocturna",
+        displayname: "Flecha de visión nocturna",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1c/Arrow_of_Night_Vision_JE1_BE1.png/revision/latest?cb=20191126065747"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    76: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_veneno",
+        displayname: "Flecha de veneno",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/Arrow_of_Poison_JE1_BE1.png/revision/latest?cb=20191126070655"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    77: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_regeneracion",
+        displayname: "Flecha de regeneración",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Arrow_of_Regeneration_JE1_BE1.png/revision/latest?cb=20191126065759"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    78: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_lentitud",
+        displayname: "Flecha de lentitud",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/92/Arrow_of_Slowness_JE1_BE1.png/revision/latest?cb=20191126065819"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    79: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_fuerza",
+        displayname: "Flecha de fuerza",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1c/Arrow_of_Strength_JE1_BE1.png/revision/latest?cb=20191126065830"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    80: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_velocidad",
+        displayname: "Flecha de velocidad",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Arrow_of_Swiftness_JE1_BE1.png/revision/latest?cb=20191126065839"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    81: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_respiracion_acuatica",
+        displayname: "Flecha de respiración acuática",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Arrow_of_Water_Breathing_JE1_BE1.png/revision/latest?cb=20191126065900"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    82: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_debilidad",
+        displayname: "Flecha de debilidad",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4a/Arrow_of_Weakness_JE1_BE1.png/revision/latest?cb=20191126065915"],
+        color: "#905A28",
+        stacksize: "64 items"
+    },
+
+    83: {
+        category: "combat",
+        tag: "tipped_arrow",
+        name: "flecha_de_suerte",
+        displayname: "Flecha de suerte",
+        image: ["https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ad/Arrow_of_Luck_JE1_BE1.png/revision/latest?cb=20191126065736"],
+        color: "#905A28",
+        stacksize: "64 items"
     }
 };
 
 module.exports = combatEs;
-
-/*
-All types of arrows
- */

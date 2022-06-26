@@ -8,7 +8,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Faro con velocidad"],
         ingredients: ["Verruga del Nether", "Azúcar"],
         increase: "20",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Aumenta la velocidad al caminar; los niveles más altos hacen que la entidad afectada sea más rápida y aumenta el campo de visión del jugador cuando se ve afectada.",
     },
 
@@ -21,7 +21,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha de efecto"],
         ingredients: ["Verruga del Nether", "Azúcar", "Ojo de araña fermentado"],
         increase: "20",
-        maxlevel: "4",
+        maxLevel: "Nivel 4",
         description: "Disminuye la velocidad al caminar; los niveles más altos hacen que la entidad afectada sea más lenta y disminuye el campo de visión del jugador cuando se ve afectada.",
     },
 
@@ -34,7 +34,7 @@ const effectsEs = {
         canbeobtainedby: ["Faro con prisa minera"],
         ingredients: ["No se puede fabricar"],
         increase: "20",
-        maxlevel: "4",
+        maxLevel: "Nivel 4",
         description: "Aumenta el minado y la velocidad de ataque, los niveles más altos aumentan la velocidad de minado y de ataque del jugador.",
     },
 
@@ -47,7 +47,7 @@ const effectsEs = {
         canbeobtainedby: ["Guardián anciano"],
         ingredients: ["No se puede fabricar"],
         increase: "10",
-        maxlevel: "3",
+        maxLevel: "Nivel 3",
         description: "Disminuye el minado y la velocidad de ataque, los niveles más altos disminuyen aún más la velocidad de minado y de ataque del jugador",
     },
 
@@ -60,7 +60,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Faro con fuerza"],
         ingredients: ["Verruga del Nether", "Polvo de blaze"],
         increase: "1.5 corazones",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Aumenta el daño cuerpo a cuerpo, los niveles más altos hacen que la entidad afectada haga más daño cuerpo a cuerpo.",
     },
 
@@ -73,7 +73,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto"],
         ingredients: ["Verruga del Nether", "Rodaja de sandía reluciente"],
         increase: "2 corazones",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Cura a las entidades vivas, daña a los muertos vivientes, los niveles más altos curan más salud y hacen más daño.",
     },
 
@@ -86,7 +86,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto"],
         ingredients: ["Verruga del Nether", "Rodaja de sandía reluciente", "Ojo de araña fermentado"],
         increase: "1.5 corazones",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Daña a las entidades vivas, cura a los muertos vivientes, los niveles más altos hacen más daño y curan más salud.",
     },
 
@@ -99,7 +99,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Faro con supersalto"],
         ingredients: ["Verruga del Nether", "Pata de conejo"],
         increase: "50",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Aumenta la altura del salto y reduce el daño por caída, los niveles más altos hacen que la entidad afectada salte más alto y reduce más el daño por caída.",
     },
 
@@ -112,7 +112,7 @@ const effectsEs = {
         canbeobtainedby: ["Comer un pez globo"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "La pantalla se tambalea y se deforma.",
     },
 
@@ -125,7 +125,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Faro con regeneración", "Manzana dorada", "Manzana dorada encantada", "Tótem de inmortalidad"],
         ingredients: ["Verruga del Nether", "Lágrima de ghast"],
         increase: "200",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Regenera la salud con el tiempo, los niveles más altos hacen que la salud se regenere más rápido.",
     },
 
@@ -138,7 +138,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Manzana dorada encantada", "Tótem de inmortalidad"],
         ingredients: ["Verruga del Nether", "Caparazón de tortuga"],
         increase: "20",
-        maxlevel: "4",
+        maxLevel: "Nivel 4",
         description: "Reduce el daño, los niveles más altos reducen más daño.",
     },
 
@@ -151,7 +151,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Manzana dorada encantada", "Tótem de inmortalidad", "Estofado sospechoso"],
         ingredients: ["Verruga del Nether", "Crema de magma"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Evita que la entidad afectada reciba daño por fuego, lava y otras fuentes de daño por fuego.",
     },
 
@@ -164,7 +164,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Caparazón de tortuga"],
         ingredients: ["Verruga del Nether", "Pez globo"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Evita el ahogamiento y permite a la entidad afectada respirar bajo el agua, o bien si es una entidad acuática, respirar en tierra.",
     },
 
@@ -177,7 +177,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto"],
         ingredients: ["Verruga del Nether", "Zanahoria dorada", "Ojo de araña fermentado"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Concede invisibilidad, haciendo que la entidad afectada sea invisible (pero no el objeto que sostiene o la armadura que lleva), y reduce el rango de detección de otras criaturas para la entidad afectada, los niveles más altos reducen más el rango de detección de otras criaturas.",
     },
 
@@ -190,7 +190,7 @@ const effectsEs = {
         canbeobtainedby: ["Sopa sospechosa"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Reduce la visión y desactiva la capacidad de correr y hacer golpes críticos.",
     },
 
@@ -203,7 +203,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Canalizador", "Estofado sospechoso"],
         ingredients: ["Verruga del Nether", "Zanahoria dorada"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Permite al jugador ver bien en la oscuridad y bajo el agua.",
     },
 
@@ -216,7 +216,7 @@ const effectsEs = {
         canbeobtainedby: ["Ataque de zombi momificado", "Comer pez globo", "Comer carne podrida", "Comer pollo crudo"],
         ingredients: ["No crafteable"],
         increase: "0.005",
-        maxlevel: "3",
+        maxLevel: "Nivel 3",
         description: "Aumenta el agotamiento de comida, los niveles más altos hacen que el jugador se muera de hambre más rápido.",
     },
 
@@ -229,7 +229,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Estofado sospechoso"],
         ingredients: ["Ojo de araña fermentado"],
         increase: "-4 de ataque",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Disminuye el daño cuerpo a cuerpo, los niveles más altos disminuyen más el daño cuerpo a cuerpo.",
     },
 
@@ -242,7 +242,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción", "Poción arrojadiza", "Poción persistente", "Flecha con efecto", "Estofado sospechoso", "Patata venenosa", "Pez globo", "Comer ojo de araña", "Arña de cueva", "Abeja"],
         ingredients: ["Verruga del Nether", "Ojo de araña"],
         increase: "200",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Inflige daño con el tiempo (pero no puede matar), los niveles más altos hacen más daño por segundo, no afecta a los muertos vivientes.",
     },
 
@@ -255,7 +255,7 @@ const effectsEs = {
         canbeobtainedby: ["Wither", "Esqueleto del Wither", "Rosa del wither", "Estofado sospechoso"],
         ingredients: ["No se puede fabricar"],
         increase: "200",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Inflige daño con el tiempo (puede matar), los niveles más altos hacen más daño por segundo.",
     },
 
@@ -268,7 +268,7 @@ const effectsEs = {
         canbeobtainedby: ["No obtenible"],
         ingredients: ["No se puede fabricar"],
         increase: "+4",
-        maxlevel: "-",
+        maxLevel: "Nivel -",
         description: "Aumenta la salud máxima, los niveles más altos dan a la entidad afectada más salud máxima.",
     },
 
@@ -281,7 +281,7 @@ const effectsEs = {
         canbeobtainedby: ["Manzana dorada", "Manzana dorada encantada", "Tótem de inmortalidad"],
         ingredients: ["No se puede fabricar"],
         increase: "+4",
-        maxlevel: "4",
+        maxLevel: "Nivel 4",
         description: "Añade absorción de daño (corazones adicionales que no se pueden regenerar), los niveles más altos dan más absorción.",
     },
 
@@ -294,7 +294,7 @@ const effectsEs = {
         canbeobtainedby: ["Estofado sospechoso"],
         ingredients: ["No se puede fabricar"],
         increase: "1",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Restaura el hambre y la saturación.",
     },
 
@@ -307,7 +307,7 @@ const effectsEs = {
         canbeobtainedby: ["Flecha espectral"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Contornea la entidad afectada (puede verse a través de bloques).",
     },
 
@@ -320,7 +320,7 @@ const effectsEs = {
         canbeobtainedby: ["Ataque de un shulker"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "2",
+        maxLevel: "Nivel 2",
         description: "Hace flotar la entidad afectada hacia arriba.",
     },
 
@@ -333,7 +333,7 @@ const effectsEs = {
         canbeobtainedby: ["No obtenible"],
         ingredients: ["No se puede fabricar"],
         increase: "1",
-        maxlevel: "-",
+        maxLevel: "Nivel -",
         description: "Puede aumentar las posibilidades de obtener un botín de alta calidad y más, los niveles más altos aumentan las posibilidades de obtener un mejor botín.",
     },
 
@@ -346,7 +346,7 @@ const effectsEs = {
         canbeobtainedby: ["No obtenible"],
         ingredients: ["No se puede fabricar"],
         increase: "-1",
-        maxlevel: "-",
+        maxLevel: "Nivel -",
         description: "Puede reducir las posibilidades de obtener un botín de alta calidad y más, los niveles más altos reducen las posibilidades de obtener un mejor botín.",
     },
 
@@ -359,7 +359,7 @@ const effectsEs = {
         canbeobtainedby: ["Poción arrojadiza", "Poción persistente", "Flecha con efecto"],
         ingredients: ["Verruga del Nether", "Membrana de fantasma"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Disminuye la velocidad de caída y anula el daño de la caída.",
     },
 
@@ -372,7 +372,7 @@ const effectsEs = {
         canbeobtainedby: ["Canalizador"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Aumenta la visibilidad bajo el agua y la velocidad de minado, evita el ahogamiento.",
     },
 
@@ -385,7 +385,7 @@ const effectsEs = {
         canbeobtainedby: ["Delfín"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Aumenta la velocidad de natación (solo se puede obtener de los delfines).",
     },
 
@@ -398,7 +398,7 @@ const effectsEs = {
         canbeobtainedby: ["Matar un capitán maldeano"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "5",
+        maxLevel: "Nivel 5",
         description: "Provoca una invasión al entrar en una aldea (solo se recibe de un capitán de invasión al morir), los niveles más altos provocan una invasión más difícil‌.",
     },
 
@@ -411,7 +411,7 @@ const effectsEs = {
         canbeobtainedby: ["Ganar una invasión"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "5",
+        maxLevel: "Nivel 5",
         description: "Da descuentos en los comecios con los aldeanos, y hace que los aldeanos arrojen objetos al jugador dependiendo de su profesión.",
     },
 
@@ -424,7 +424,7 @@ const effectsEs = {
         canbeobtainedby: ["Chillador de sculk", "Warden"],
         ingredients: ["No se puede fabricar"],
         increase: "0",
-        maxlevel: "1",
+        maxLevel: "Nivel 1",
         description: "Oscurece la pantalla de los jugadores."
     }
 };
